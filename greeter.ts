@@ -9,4 +9,3 @@ interface Box {
 
 let box: Box = {height:5, width:6, scale:7};
 
-console.log("test");
